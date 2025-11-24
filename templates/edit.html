@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Edit Student</h2>
+<form class="card" method="post" action="{{ url_for('edit', index=index) }}">
+  <label>Full Name</label>
+  <input name="name" value="{{ student.name }}" required>
+
+  <label>Roll Number</label>
+  <input name="roll" value="{{ student.roll }}" required>
+
+  <label>Course</label>
+  <input name="course" value="{{ student.course }}">
+
+  <div class="form-actions">
+    <button class="primary" type="submit">Save</button>
+    <a class="link" href="{{ url_for('index') }}">Cancel</a>
+  </div>
+</form>
+{% endblock %}

@@ -1,0 +1,97 @@
+[
+  {
+    "name": "rohan",
+    "roll": "20",
+    "course": "social science"
+  },
+  {
+    "name": "emilie",
+    "roll": "5",
+    "course": "cybersecurity"
+  },
+  {
+    "name": "kiara",
+    "roll": "77",
+    "course": "iot"
+  },
+  {
+    "name": "Ruth esther",
+    "roll": "9",
+    "course": "java"
+  },
+  {
+    "name": "ernest meshak",
+    "roll": "89",
+    "course": "Artificial intelligence"
+  },
+  {
+    "name": "joyce",
+    "roll": "19",
+    "course": "social science"
+  },
+  {
+    "name": "stephen",
+    "roll": "25",
+    "course": "iot"
+  },
+  {
+    "name": "jason",
+    "roll": "14",
+    "course": "cybersecurity"
+  },
+  {
+    "name": "shawn",
+    "roll": "17",
+    "course": "social science"
+  },
+  {
+    "name": "adrielle",
+    "roll": "2",
+    "course": "computer science"
+  },
+  {
+    "name": "freeda",
+    "roll": "10",
+    "course": "commerce"
+  },
+  {
+    "name": "shiny",
+    "roll": "34",
+    "course": "Artificial intelligence"
+  },
+  {
+    "name": "lily",
+    "roll": "24",
+    "course": "computer science"
+  },
+  {
+    "name": "nahomi",
+    "roll": "11",
+    "course": "cybersecurity"
+  },
+  {
+    "name": "michelle",
+    "roll": "29",
+    "course": "java"
+  },
+  {
+    "name": "gracie",
+    "roll": "13",
+    "course": "social science"
+  },
+  {
+    "name": "simeon",
+    "roll": "32",
+    "course": "iot"
+  },
+  {
+    "name": "matthew",
+    "roll": "27",
+    "course": "Artificial intelligence"
+  },
+  {
+    "name": "lovely pavithra",
+    "roll": "29",
+    "course": "iot"
+  }
+]
