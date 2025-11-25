@@ -24,15 +24,15 @@ The project was developed following the Agile Methodology using Trello for proje
 
 🚀 Features
 
-✔ Add new student
-✔ Edit existing student details
-✔ Delete a student
-✔ View all students
-✔ Data stored in students.json (no SQL required)
-✔ Simple and clean UI
-✔ Flask backend with REST structure
-✔ Easy to expand for future modules
-
+✔ Add new student <br>
+✔ Edit existing student details <br>
+✔ Delete a student <br>
+✔ View all students <br>
+✔ Data stored in students.json (no SQL required) <br>
+✔ Simple and clean UI <br>
+✔ Flask backend with REST structure <br>
+✔ Easy to expand for future modules <br>
+ <br>
 🧰 Tech Stack
 Frontend
 
@@ -108,24 +108,24 @@ Prioritizing user stories
 
 Managing deadlines
 
-▶️ How to Run the Project
-1. Clone the repository
+▶️ How to Run the Project <br>
+1. Clone the repository<br>
 git clone <your-repo-link>
-cd STUDENTMANAGEMENT_FINAL
-
-2. Install Flask
-pip install flask
-
-3. Run the application
-python app.py
-
-4. Open in browser
-http://127.0.0.1:5000/
-
-📸 Screenshots (Optional If You Add Later)
-
-Dashboard
-
+cd STUDENTMANAGEMENT_FINAL<br>
+<br>
+2. Install Flask<br>
+pip install flask<br>
+<br>
+3. Run the application<br>
+python app.py<br>
+<br>
+4. Open in browser<br>
+http://127.0.0.1:5000/<br>
+<br>
+📸 Screenshots (Optional If You Add Later)<br>
+<br>
+Dashboard<br>
+<br>
 Add student page
 
 Edit student page
