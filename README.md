@@ -56,8 +56,8 @@ VS Code
 
 Trello (Agile Methodology)
 
-📂 Project Structure
-STUDENTMANAGEMENT_FINAL/
+📂 Project Structure <br>
+STUDENTMANAGEMENT_FINAL/<br>
 │── static/
 │    ├── style.css
 │    └── script.js
